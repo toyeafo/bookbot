@@ -1,1 +1,1 @@
-# bookbot
+# BookBot - A command line application python project 
