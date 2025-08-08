@@ -9,7 +9,7 @@ def main():
     print(f"The program found {word_count} in the document.")
     
     for letters in letter_count_list:
-        print(f"The {letters["name"]} character was found {letters["num"]} times.")
+        print(f"The {letters['name']} character was found {letters['num']} times.")
 
     print("----- End report -----")
     
