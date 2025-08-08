@@ -2,7 +2,7 @@
 
 ## Overview
 
-**BookBot** is a simple Python program designed to analyze the content of a text file (e.g., a book) and generate a report. The program counts the total number of words and the frequency of each letter in the text, providing a basic textual analysis.
+**BookBot** is a simple Python program designed to analyze the content of a text file (e.g., a book) and generate a report. The program counts the total number of words and the frequency of each letter in the text, providing a basic textual analysis. BookBot is my first [Boot.dev](https://www.boot.dev) project!
 
 ## Features
 
